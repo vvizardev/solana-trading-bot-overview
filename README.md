@@ -18,16 +18,19 @@ Please leave new ideas and bugs on issues so that we can upgrade it.
 |                       |     2.0.1     | Sniping Bot using GRPC ( Helius Geyser )        | Use Helius Geyser, Enhanced Sniping Time                         |  Rust-CLI  |
 |                       |     2.1.0     | Sniping Bot using GRPC ( Yellow Stone )         | Use YellowStone GRPC, Sniping around 1 Block                     |  Node-CLI  |
 |                       |               |                                                 |                                                                  |            |
-|  Raydium Sniping Bot  |     1.0.0     | Sniping Bot using websocket , jupiter Routing    | Use WebSocket Monitor, jupiter Routing                            |  Node-CLI  |
+|  Raydium Sniping Bot  |     1.0.0     | Sniping Bot using websocket , jupiter Routing    | Use WebSocket Monitor, jupiter Routing                          |  Node-CLI  |
 |                       |     1.1.0     | Sniping Bot using websocket , Raydium SDK       | Use WebSocket Monitor, Raydium SDK                               |  Node-CLI  |
 |                       |     1.1.1     | Sniping Bot on WebSite                          | Use WebSocket Monitor                                            | WebService |
-|                       |               |                                                 | jupiter Routing, Running on WebSite                               | Next, Node |
+|                       |               |                                                 | jupiter Routing, Running on WebSite                              | Next, Node |
 |                       |     2.0.0     | Sniping Bot using GRPC ( Helius Geyser )        | Use Helius Geyser, Raydium SDK                                   |  Node-CLI  |
 |                       |     2.1.0     | Sniping Bot with GRPC ( Yellow Stone + Jito )   | Use YellowStone GRPC, Jito Confirm, Raydium SDK                  |  Node-CLI  |
 |                       |               |                                                 |                                                                  |            |
 |  Wallet Tracker Bot   |     1.0.0     | Wallet Activity & Token Price Tracker           | Wallet Activity, Token Price, Use MongoDB, Calc Info USD & PnL   |  Telegram  |
 |                       |               |                                                 | Add Tracking 10000 Lists , Double Hash User Info                 | Typescript |
 |                       |               |                                                 | Other Infos, Product Version                                     |            |
+|                       |               |                                                 |                                                                  |            |
+|  Pumpfun Comment Bot  |     1.0.0     | Automatic Comment to Pumpfun token             | Comment from JSON file , Comment from New Generated Address       |  Node-CLI  |
+|                       |     2.0.0     | Pumpfun Comment Bot + AI Comments              | Generate Comments from AI                                         |  Node-CLI  |
 |                       |               |                                                 |                                                                  |            |
 |  jupiter Volume Bot    |     1.0.0     | jupiter Volume Bot                               | Use jupiter Route                                                 |  Node-CLI  |
 |                       |     2.0.0     | jupiter Volume Bot on Telegram                   | Use jupiter Route                                                 |  Telegram  |
