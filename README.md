@@ -5,7 +5,7 @@ These are Solana Trading Bots what I built before. Open to discuss about bots & 
 ## Wizardev is UPGRADING product.
 
 Please leave new ideas and bugs on issues so that we can upgrade it.
-
+ 
 ### Solana Trading Bot Overview
 
 --------------------
