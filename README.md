@@ -49,7 +49,7 @@ Please leave new ideas and bugs on issues so that we can upgrade it.
 |                       |               |                                                 |                                                                  |            |
 |  Pumpfun Bundler      |     1.0.0     | Pumpfun Bundler using websocket                 | Bundling + 24 Wallets                                            |  Node-CLI  |
 |                       |               |                                                 |                                                                  |            |
-|  Raydium Bundler      |     1.0.0     | Bundler Bot using Jito                          | Simple Jito Bundling                                             |  Node-CLI  |
+|  Raydium Bundler      |     1.0.0     | Bundler Bot using Jito                          | Simple Jito Bundle                                            |  Node-CLI  |
 |                       |     2.0.0     | Bundler Bot using Jito + LookUpTable            | Bundling + 21 Wallets, ( Updating ) 27 Wallets                   |  Node-CLI  |
 |                       |               |                                                 |                                                                  |            |
 |  Meteora Bundler      |     1.0.0     | Meteora Bundler                                 | Simple Jito Bundling                                             |  Node-CLI  |
@@ -57,4 +57,7 @@ Please leave new ideas and bugs on issues so that we can upgrade it.
 |  jupiter Arbitrage Bot |     1.0.0     | Arbitrage Bot using jupiter API                  | Circle Routing, Bundle Sol -> USDC, USDC -> SOL                  |  Node-CLI  |
 |                       |               |                                                 |                                                                  |            |
 |  CopyTrading Bot      |     1.0.0     | CopyTrading Bot which running on jupiter         | Use jupiter Route                                                 |  Node-CLI  |
+
+
+
 
