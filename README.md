@@ -17,6 +17,8 @@ Please leave new ideas and bugs on issues so that we can upgrade it.
 |                       |     2.0.0     | Sniping Bot using GRPC ( Helius Geyser )        | Use Helius Geyser, Enhanced Sniping Time                         |  Node-CLI  |
 |                       |     2.0.1     | Sniping Bot using GRPC ( Helius Geyser )        | Use Helius Geyser, Enhanced Sniping Time                         |  Rust-CLI  |
 |                       |     2.1.0     | Sniping Bot using GRPC ( Yellow Stone )         | Use YellowStone GRPC, Sniping around 1 Block                     |  Node-CLI  |
+|                       |     3.0.0     | Sniping Bot using Smart Contract                | Calc bonding Curve on Smart Contract                             |  Node-CLI  |
+|                       |               |                                                 | High Confirmation Time                                           |            |
 |                       |               |                                                 |                                                                  |            |
 |  Raydium Sniping Bot  |     1.0.0     | Sniping Bot using websocket , jupiter Routing    | Use WebSocket Monitor, jupiter Routing                          |  Node-CLI  |
 |                       |     1.1.0     | Sniping Bot using websocket , Raydium SDK       | Use WebSocket Monitor, Raydium SDK                               |  Node-CLI  |
