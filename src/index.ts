@@ -6,6 +6,9 @@ import { getCurrentTime } from "./utils";
 import { loadConfig } from "./config/toml";
 import { Trade } from "./trade";
 
+
+
+
 loadConfig();
 
 const marketConfig: MarketConfig = {
